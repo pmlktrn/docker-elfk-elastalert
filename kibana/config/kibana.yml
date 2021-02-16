@@ -4,7 +4,7 @@
 #
 server.name: kibana
 server.host: "0"
-elasticsearch.hosts: [ "http://elasticsearch:9200" ]
+elasticsearch.hosts: [ "http://54.215.77.159:9200" ]
 
 elastalert-kibana-plugin.serverHost: elastalert
 elastalert-kibana-plugin.serverPort: 3030
